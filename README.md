@@ -7,7 +7,7 @@
 ---
 
 # 个人信息
- ![image](https://note.youdao.com/yws/api/personal/file/WEBce353284654eec1ef57111549e497afe?method=getImage&version=9535&cstk=e_hmBi4a)
+![image](./image/证件照.jpg)
  - 李杰/男/1997 
  - 本科/陆军步兵学院 
  - 工作年限：4年
@@ -24,9 +24,11 @@ python:
 精通 SQL，熟练使用Python3(pandas numpy sklearn)进行数据清洗、分析
 精通tornado，flask等web后端框架进行web后端开发（工业大数据）
 从0到1搭建和改进测试环境，并负责项目测试工作；主导日常产品测试的全流程，包
-括需求分析，测试计划，测试执行以及测试报告等工作，能够进行缺陷跟踪定位，协助开发解决问题等
+括需求分析，测试计划，测试执行以及测试报告等工作，能够进行缺陷跟踪定位，协助开
+发解决问题等
 java:
-熟练掌握J2EE框架技术,擅长使用Struts2、Spring、Hibernate、SpringMVC、Mybatis等常用开源框架开发企业应用
+熟练掌握J2EE框架技术,擅长使用Struts2、Spring、Hibernate、SpringMVC、
+Mybatis等常用开源框架开发企业应用
 生活中:
 喜欢爬山（游侠客户外领队）, 健身（带同事俩个月健康的瘦了12斤）
 ```
@@ -123,4 +125,4 @@ Spring、SpringMVC、Mybatis三大框架技术相结合，前端采用vue框架�
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。
-![image](https://note.youdao.com/yws/api/personal/file/WEB935edda5996a222ee5c5881947251c4a?method=getImage&version=9676&cstk=e_hmBi4a)
+![image](./image/敬礼.jpg)
